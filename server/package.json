@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server side for online store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemetiere/online-store.git"
+  },
+  "author": "cemetiere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cemetiere/online-store/issues"
+  },
+  "homepage": "https://github.com/cemetiere/online-store#readme"
+}
